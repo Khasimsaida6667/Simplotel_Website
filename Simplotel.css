@@ -114,6 +114,7 @@ nav ul li a {
     flex-direction: column;
     justify-content: center;
     align-self: center;
+    overflow: hidden;
 }
 
 
